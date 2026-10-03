@@ -1,0 +1,15 @@
+{
+	"name": "df-sfyproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbe12a37-9ada-4448-97bf-463663040c00",
+		"tenantId": "f0abaf61-5a89-4dc6-98b9-b60245ba0110"
+	}
+}
