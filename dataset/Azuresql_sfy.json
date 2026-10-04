@@ -1,0 +1,12 @@
+{
+	"name": "Azuresql_sfy",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase_sfy",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
